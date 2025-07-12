@@ -53,6 +53,15 @@ My recent experience includes developing both **web-based platforms** and **desk
 
 ---
 
+### 🚀 Top Projects
+
+- 🔥 [**End-to-End-Echocardiographic-Analysis-Pipeline**](https://github.com/sarah1ibrahim/End-to-End-Echocardiographic-Analysis-Pipeline):
+- 💡 [**GitSwift**](https://github.com/YOUR_USERNAME/GitSwift): GUI for GitHub upload and token management  
+- ✨ [**Smart_Text_Expander**](https://github.com/YOUR_USERNAME/Smart_Text_Expander): Boost productivity via custom shortcuts  
+- 📡 [**Nexus_Ai_Streaming_Platform**](https://github.com/YOUR_USERNAME/Nexus_Ai_Streaming_Platform): AI-powered content discovery
+
+---
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,html,css,angular,tailwind,nodejs,mongodb,qt,figma,aws&perline=8" />
 </p>
