@@ -58,8 +58,7 @@ My recent experience includes developing both **web-based platforms** and **desk
 -  [**End-to-End-Echocardiographic-Analysis-Pipeline**](https://github.com/sarah1ibrahim/End-to-End-Echocardiographic-Analysis-Pipeline) 
 -  [**Web-Based-AI-System-for-Respiratory-Sound-Analysis-and-Severity-Classification**](https://github.com/sarah1ibrahim/Web-Based-AI-System-for-Respiratory-Sound-Analysis-and-Severity-Classification)
 -  [**HIS-Derma-Clinic**](https://github.com/sarah1ibrahim/HIS-Derma-Clinic)
--  [**Fat-and-Water-Suppression-Dixon-Technique-Dicom-Images
-**](https://github.com/sarah1ibrahim/Fat-and-Water-Suppression-Dixon-Technique-Dicom-Images)
+-  [**Fat-and-Water-Suppression-Dixon-Technique-Dicom-Images**](https://github.com/sarah1ibrahim/Fat-and-Water-Suppression-Dixon-Technique-Dicom-Images)
 
 ---
 
