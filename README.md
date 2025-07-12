@@ -64,7 +64,7 @@ My recent experience includes developing both **web-based platforms** and **desk
 
 ### 📈 GitHub Activity Graph
 
-[![Sarah's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sarah's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarah1ibrahim&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,html,css,angular,nodejs,mongodb,qt,figma&perline=8" />
@@ -73,7 +73,7 @@ My recent experience includes developing both **web-based platforms** and **desk
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/sarah1ibrahim/sarah1ibrahim/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 
