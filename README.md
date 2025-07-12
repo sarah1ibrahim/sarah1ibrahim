@@ -53,11 +53,8 @@ My recent experience includes developing both **web-based platforms** and **desk
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarah1ibrahim&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah1ibrahim&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,angular,tailwind,nodejs,mongodb,qt,figma,aws&perline=8" />
 </p>
 
 
