@@ -61,19 +61,12 @@ My recent experience includes developing both **web-based platforms** and **desk
 -  [**Fat-and-Water-Suppression-Dixon-Technique-Dicom-Images**](https://github.com/sarah1ibrahim/Fat-and-Water-Suppression-Dixon-Technique-Dicom-Images)
 
 ---
-
-### 📈 GitHub Activity Graph
-
-[![Sarah's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarah1ibrahim&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,angular,nodejs,mongodb,qt,figma&perline=8" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Biomedical+Engineer;Medical+Imaging+Developer;Web+Developer;Open+to+Opportunities&center=true&width=500&height=45" />
 </p>
 
-### 🐍 GitHub Contribution Snake
-
 <p align="center">
-  <img src="https://github.com/sarah1ibrahim/sarah1ibrahim/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,angular,qt,figma,nodejs,mongodb&perline=8" />
 </p>
 
 
