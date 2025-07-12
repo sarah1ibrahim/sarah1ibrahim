@@ -60,13 +60,7 @@ My recent experience includes developing both **web-based platforms** and **desk
 -  [**HIS-Derma-Clinic**](https://github.com/sarah1ibrahim/HIS-Derma-Clinic)
 -  [**Fat-and-Water-Suppression-Dixon-Technique-Dicom-Images**](https://github.com/sarah1ibrahim/Fat-and-Water-Suppression-Dixon-Technique-Dicom-Images)
 
----
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sarah1ibrahim/sarah1ibrahim/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 
