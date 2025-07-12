@@ -37,8 +37,6 @@ My recent experience includes developing both **web-based platforms** and **desk
   <img src="https://img.shields.io/badge/AWS_S3-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
 
   <!-- AI & Imaging -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/3D_Slicer-0D122B?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Mango-0D122B?style=flat-square&logoColor=white" />
