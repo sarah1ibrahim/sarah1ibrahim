@@ -55,10 +55,11 @@ My recent experience includes developing both **web-based platforms** and **desk
 
 ### 🚀 Top Projects
 
-- 🔥 [**End-to-End-Echocardiographic-Analysis-Pipeline**](https://github.com/sarah1ibrahim/End-to-End-Echocardiographic-Analysis-Pipeline):
-- 💡 [**GitSwift**](https://github.com/YOUR_USERNAME/GitSwift): GUI for GitHub upload and token management  
-- ✨ [**Smart_Text_Expander**](https://github.com/YOUR_USERNAME/Smart_Text_Expander): Boost productivity via custom shortcuts  
-- 📡 [**Nexus_Ai_Streaming_Platform**](https://github.com/YOUR_USERNAME/Nexus_Ai_Streaming_Platform): AI-powered content discovery
+-  [**End-to-End-Echocardiographic-Analysis-Pipeline**](https://github.com/sarah1ibrahim/End-to-End-Echocardiographic-Analysis-Pipeline) 
+-  [**Web-Based-AI-System-for-Respiratory-Sound-Analysis-and-Severity-Classification**](https://github.com/sarah1ibrahim/Web-Based-AI-System-for-Respiratory-Sound-Analysis-and-Severity-Classification)
+-  [**HIS-Derma-Clinic**](https://github.com/sarah1ibrahim/HIS-Derma-Clinic)
+-  [**Fat-and-Water-Suppression-Dixon-Technique-Dicom-Images
+**](https://github.com/sarah1ibrahim/Fat-and-Water-Suppression-Dixon-Technique-Dicom-Images)
 
 ---
 
