@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=System+%26+Biomedical+Engineer;Web+Developer;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=50">
 </p>
----
 
 ### 👩‍💻 About Me
 I’m a **Biomedical Engineering graduate from Cairo University** with a strong focus on **medical technologies** and **digital healthcare transformation**. Throughout my academic and personal projects, I’ve gained a solid understanding of **medical imaging modalities** such as **MRI**, **CT**, and **X-ray**, and have developed software applications designed to support and enhance imaging-related tasks through **software-driven solutions**.
@@ -53,5 +52,13 @@ My recent experience includes developing both **web-based platforms** and **desk
 </p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
+
 
 
