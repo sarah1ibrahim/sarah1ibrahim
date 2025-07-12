@@ -60,14 +60,7 @@ My recent experience includes developing both **web-based platforms** and **desk
 -  [**HIS-Derma-Clinic**](https://github.com/sarah1ibrahim/HIS-Derma-Clinic)
 -  [**Fat-and-Water-Suppression-Dixon-Technique-Dicom-Images**](https://github.com/sarah1ibrahim/Fat-and-Water-Suppression-Dixon-Technique-Dicom-Images)
 
----
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Biomedical+Engineer;Medical+Imaging+Developer;Web+Developer;Open+to+Opportunities&center=true&width=500&height=45" />
-</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,angular,qt,figma,nodejs,mongodb&perline=8" />
-</p>
 
 
 
