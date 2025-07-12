@@ -10,47 +10,45 @@ My recent experience includes developing both **web-based platforms** and **desk
 
 ### 🛠️ Skills & Tools
 
-#### 👩‍💻 Backend Development  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
 
-#### 🎨 Frontend Development  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)
+  <!-- Frontend & UI -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
 
-#### 🤖 AI & Automation  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square)
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square" />
 
-#### 🗄️ Databases & Cloud  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+  <!-- Databases & Cloud -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS_S3-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
 
-#### 💻 Desktop Application Development  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white&style=flat-square)
-![PyQt](https://img.shields.io/badge/-PyQt-41CD52?logo=python&logoColor=white&style=flat-square)
+  <!-- AI & Imaging -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/3D_Slicer-0D122B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mango-0D122B?style=flat-square&logoColor=white" />
 
-#### 🧪 Medical Imaging Tools  
-![3D Slicer](https://img.shields.io/badge/-3D%20Slicer-0D122B?style=flat-square&logoColor=white)
-![Mango](https://img.shields.io/badge/-Mango-0D122B?style=flat-square&logoColor=white)
+  <!-- Other Tools -->
+  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/PyQt-41CD52?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/AutoCAD-FFB400?style=flat-square&logo=autodesk&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square" />
+</p>
 
-#### 🎨 UI/UX Design  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
-
-#### 🧰 Technical Tools  
-![AutoCAD](https://img.shields.io/badge/-CAD-FFB400?style=flat-square&logo=autodesk&logoColor=black)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat-square)
-
-#### 📋 Project Management  
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
 
