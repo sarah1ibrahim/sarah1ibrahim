@@ -2,11 +2,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=System+%26+Biomedical+Engineer;Web+Developer;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=50">
 </p>
+---
 
 ### 👩‍💻 About Me
 I’m a **Biomedical Engineering graduate from Cairo University** with a strong focus on **medical technologies** and **digital healthcare transformation**. Throughout my academic and personal projects, I’ve gained a solid understanding of **medical imaging modalities** such as **MRI**, **CT**, and **X-ray**, and have developed software applications designed to support and enhance imaging-related tasks through **software-driven solutions**.
 
 My recent experience includes developing both **web-based platforms** and **desktop applications** that integrate with **AI-powered medical tools**. These solutions enable advanced capabilities such as **diagnostic support**, **image processing**, and efficient **clinical workflow integration**. I contribute to the **design, development, and deployment** of these systems to ensure practical and scalable outcomes.
+
+---
 
 ### 🛠️ Skills & Tools
 
@@ -48,5 +51,7 @@ My recent experience includes developing both **web-based platforms** and **desk
   <img src="https://img.shields.io/badge/AutoCAD-FFB400?style=flat-square&logo=autodesk&logoColor=black" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square" />
 </p>
+
+---
 
 
