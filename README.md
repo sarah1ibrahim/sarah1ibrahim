@@ -5,16 +5,8 @@
 
 ### 👩‍💻 About Me
 
-I am a **Biomedical Engineering graduate from Cairo University** with a focus on medical technologies and digital healthcare solutions. I have hands-on experience working with various **medical imaging modalities**, including:
+I’m a **Biomedical Engineering graduate from Cairo University** with a strong focus on **medical technologies** and **digital healthcare transformation**. Throughout my academic and personal projects, I’ve worked extensively with **medical imaging**, particularly modalities such as **MRI**, **CT**, and **X-ray**, exploring how they can be enhanced through **software-driven solutions**.
 
-- **MRI**
-- **CT**
-- **X-ray**
+My recent experience includes developing both **web-based platforms** and **desktop applications** that integrate with **AI-powered medical tools**. These solutions enable advanced capabilities such as **diagnostic support**, **image processing**, and efficient **clinical workflow integration**. I contribute to the **design, development, and deployment** of these systems to ensure practical and scalable outcomes.
 
-I develop both **web-based platforms** and **desktop applications** that interact with medical imaging data and integrate with AI-based tools. My work contributes to building practical solutions for:
 
-- **Diagnostic support**
-- **Image processing**
-- **Clinical workflow integration**
-
-My role includes designing, implementing, and deploying systems that align with real-world medical needs, bridging engineering and healthcare through effective software development.
