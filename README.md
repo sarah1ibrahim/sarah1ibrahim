@@ -66,14 +66,13 @@ My recent experience includes developing both **web-based platforms** and **desk
 
 <p align="center">
   <a href="mailto:sarahibrahim15156@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/sarah-ibrahim-791a16247/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
 </p>
-
 
 
 
