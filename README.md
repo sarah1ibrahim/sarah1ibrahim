@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sarah Ibrahim</h1>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
+<h1 align="center">Hi 👋, I'm Sarah Ibrahim</h1>
+
+<p align="center">
+  <a href="mailto:sarahibrahim15156@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sarah-ibrahim-791a16247/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=System+%26+Biomedical+Engineer;Web+Developer;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=50">
