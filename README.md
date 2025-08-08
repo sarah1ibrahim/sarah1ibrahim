@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarah Ibrahim</h1>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=System+%26+Biomedical+Engineer;Web+Developer;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=50">
 </p>
