@@ -64,7 +64,7 @@ My recent experience includes developing both **web-based platforms** and **desk
 
 ## 📫 Connect with Me
 
-<p>
+<p align="center">
   <a href="mailto:sarahibrahim15156@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" />
   </a>
